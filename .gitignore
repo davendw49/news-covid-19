@@ -1,3 +1,10 @@
+sample/*.png
+sample/*.npy
+sample/*.html
+sample/*.py
+glove.*
+*.pt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
